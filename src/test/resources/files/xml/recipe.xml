@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<recipe version="1.0" xmlns="http://swoop.com/1.0">
+    <title>Moroccan Lentils and Couscous</title>
+    <description>
+        Yum, yum.
+    </description>
+    <ingredient ref="/library/lentil-258">1 cup lentils, uncooked</ingredient>
+    <ingredient>4 garlic cloves, crushed</ingredient>
+    <ingredient>1 teaspoon cumin, ground</ingredient>
+    <ingredient>1/2 teaspoon salt</ingredient>
+    <ingredient>1/8 teaspoon pepper</ingredient>
+    <ingredient>1/16 teaspoon ground cinnamon</ingredient>
+    <ingredient>1 bay leaf</ingredient>
+    <ingredient>3 cups water</ingredient>
+    <ingredient>2 teaspoons vegetable oil</ingredient>
+    <ingredient>2 cups onions, cut in thin slices</ingredient>
+    <ingredient ref="/library/couscous-19">1/2 cup couscous, uncooked</ingredient>
+    <directions>
+        Mix everything together and microwave for 5 minutes.
+    </directions>
+</recipe>

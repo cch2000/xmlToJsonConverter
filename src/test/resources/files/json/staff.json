@@ -1,0 +1,41 @@
+{
+    "staff": [{
+        "firstname": {
+            "_tag": "firstname",
+            "_text": "Walter"
+        },
+        "lastname": {
+            "_tag": "lastname",
+            "_text": "White"
+        },
+        "nickname": {
+            "_tag": "nickname",
+            "_text": "Hisenburg"
+        },
+        "title": {
+            "_tag": "title",
+            "_text": "The cook"
+        },
+        "salary": {
+            "_tag": "salary",
+            "_text": "80,000,000"
+        }
+    },{
+        "firstname": {
+            "_tag": "firstname",
+            "_text": "Jesse"
+        },
+        "lastname": {
+            "_tag": "lastname",
+            "_text": "Pinkman"
+        },
+        "title": {
+            "_tag": "title",
+            "_text": "co-cook"
+        },
+        "salary": {
+            "_tag": "salary",
+            "_text": "5,000,000"
+        }
+    }]
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.chcui.test.XmlToJsonConverterTest" duration-ms="19" started-at="2013-12-20T23:11:47Z" finished-at="2013-12-20T23:11:47Z">
+    <groups>
+      <group name="Basic">
+        <method signature="com.chcui.test.XmlToJsonConverterTest.validAuthenticationTest()" name="validAuthenticationTest" class="com.chcui.test.XmlToJsonConverterTest"/>
+      </group>
+    </groups>
+    <test name="Command line test" duration-ms="19" started-at="2013-12-20T23:11:47Z" finished-at="2013-12-20T23:11:47Z">
+      <class name="com.chcui.test.XmlToJsonConverterTest">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="9" started-at="2013-12-20T23:11:47Z" finished-at="2013-12-20T23:11:47Z">
+        </test-method>
+        <test-method status="PASS" signature="validAuthenticationTest()" name="validAuthenticationTest" duration-ms="5" started-at="2013-12-20T23:11:47Z" finished-at="2013-12-20T23:11:47Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
